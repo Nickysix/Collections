@@ -1,0 +1,2 @@
+# Collections
+Collection of information
